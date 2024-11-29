@@ -191,14 +191,11 @@ p{
 /* // small screen // */
 
 @media only screen and (max-width: 576px) {
-    body{
-       
-        background-position: 20%;
-
-    }
+    
      .section-main{
         height: auto;
         min-height: 90vh;
+        background-position: 20%;
     }
     .logo-container{
         margin: 5%;
