@@ -196,6 +196,10 @@ p{
         background-position: 20%;
 
     }
+     .section-main{
+        height: auto;
+        min-height: 90vh;
+    }
     .logo-container{
         margin: 5%;
         gap: 1rem;
